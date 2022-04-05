@@ -1,2 +1,0 @@
-fasttext-covid19-embeddings/covid-19-embeddings-es-d100-min5-uncased.bin filter=lfs diff=lfs merge=lfs -text
-fasttext-covid19-embeddings/covid-19-embeddings-es-d100-min5-uncased.vec filter=lfs diff=lfs merge=lfs -text
