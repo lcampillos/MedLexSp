@@ -9,6 +9,6 @@ Tested in Spacy vs. 2.1.9 and python 3.6.
 #### Where do you have to place this file?
 
 - Locate the spacy subfolder containing the Spacy default lemmatizer for Spanish in your computer. 
-Generally, it can be found in `python#/site-packages/spacy/lang/`
+Generally, it can be found in `python#/site-packages/spacy/lang/es`
 
 - Replace file `lemmatizer.py` with this resource.
