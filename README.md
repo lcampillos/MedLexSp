@@ -5,7 +5,7 @@ If you use these resources, please, cite as follows:
 
 ```
   @article{campillos2022,   
-  title       = {MedLexSp – A Medical Lexicon for Spanish Medical NLP},  
+  title       = {MedLexSp – A Medical Lexicon for Spanish Medical Natural Language Processing},  
   author       = {Campillos-Llanos, Leonardo},   
   journal = {(Under review)},
   year      = {2022}
