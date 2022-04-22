@@ -1,8 +1,8 @@
 ## Lemmatizer with MedLexSp forms and lemmas for Spacy
 
-This file includes 104739 new variant forms of medical lemmas, to be used for lemmatization in Spacy.
+This file includes 106261 new variant forms of medical lemmas, to be used for lemmatization in Spacy.
 
-In total, there are 563025 variant forms.
+In total, there are 564547 variant forms.
 
 Tested in Spacy vs. 2.1.9 and python 3.6.
 
