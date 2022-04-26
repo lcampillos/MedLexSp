@@ -1,0 +1,246 @@
+
+arbidol
+Word not in corpus!
+arb 0.7704
+valsartán 0.7296
+enalapril 0.7241
+vafidemstat 0.7213
+764198 0.7165
+cds 0.7158
+ssc 0.6991
+—un 0.697
+dfv890 0.6944
+ara2 0.6922
+
+camrelizumab
+Word not in corpus!
+ravulizumab 0.9516
+vedolizumab 0.9464
+eculizumab 0.9443
+bevacizumab 0.942
+tocilizumab 0.9348
+pembrolizumab 0.9324
+sirukumab 0.8999
+natalizumab 0.8995
+canakinumab 0.8698
+ustekinumab 0.869
+
+covid-19
+covid-19— 0.8835
+covid-19* 0.8802
+covid-19- 0.8654
+covid-192 0.8438
+covid-196 0.8413
+covid-10 0.8268
+covid-191 0.8247
+covid-198 0.8201
+covd-19 0.8154
+covid-1915 0.8106
+
+coronavirus
+coronavirus' 0.9678
+coronavirus- 0.9499
+coronavirus-19 0.9256
+#infocoronavirus 0.902
+sars-coronavirus 0.9019
+stop-coronavirus 0.8942
+coronavirus-2 0.8916
+coranavirus 0.8422
+#coronavirus 0.8314
+alfacoronavirus 0.8279
+
+confinamiento
+#confinamiento 0.9658
+preconfinamiento 0.9217
+desconfinamiento 0.9017
+confinamientos 0.893
+confina 0.769
+confinar 0.7426
+encierro 0.7002
+confinan 0.698
+confinó 0.685
+relajamiento 0.6737
+
+cuarentena
+#cuarentena 0.9618
+autocuarentena 0.9278
+cuarentenas 0.9101
+anticuarentena 0.8693
+cuarenta 0.8581
+autoaislamiento 0.8014
+aislamiento 0.7681
+aislamientos 0.7142
+autoaislarse 0.6748
+distanciamiento 0.6463
+
+colchicina
+colchicine 0.8329
+ruxolitinib 0.7915
+pirfenidona 0.7872
+doxiciclina 0.7716
+antipalúdico 0.7616
+abx464 0.7596
+tofacitinib 0.7592
+dfv890 0.759
+m04ac01 0.7575
+mk-4482 0.7542
+
+danoprevir
+Word not in corpus!
+oseltamivir 0.7278
+remdesevir 0.7084
+hcr040 0.7076
+darunavir 0.707
+carvativir 0.7034
+raloxifeno 0.6982
+tenofovir 0.6927
+vir 0.6916
+antivírico 0.6841
+ensayar 0.6821
+
+epi
+epp 0.7365
+epis 0.7019
+guantes 0.6756
+fpp1 0.6628
+individual 0.6532
+bata 0.6524
+fpp2 0.6495
+quirófano 0.6417
+colocación 0.6352
+n-95 0.6327
+
+epp
+epi 0.7365
+faciales 0.6307
+bata 0.6286
+#1 0.6283
+reprocesamiento 0.6259
+guantes 0.6224
+facial 0.6155
+osha 0.6106
+p2 0.6093
+filtrantes 0.6075
+
+hidroxicloroquina
+cloroquina 0.9332
+azitromicina 0.8623
+lopinavir 0.844
+claritromicina 0.8313
+ritonavir 0.8256
+eritromicina 0.8156
+mefloquina 0.8062
+lopinavir-ritonavir 0.7858
+darunavir 0.7784
+hcq 0.7701
+
+favipiravir
+avifavir 0.8191
+maraviroc 0.8054
+darunavir 0.7692
+lopinavir 0.7592
+ribavirina 0.7529
+lopinavir-ritonavir 0.7528
+baricitinib 0.7463
+colchicine 0.7397
+remdesevir 0.7393
+oseltamivir 0.7389
+
+ffp2
+ffp1 0.919
+ffp3 0.9164
+ffp 0.9055
+ffp2-3 0.8918
+n95 0.8349
+p2 0.8254
+filtrante 0.8054
+fpp2 0.802
+filtrantes 0.8008
+kn95 0.7905
+
+leronlimab
+Word not in corpus!
+otilimab 0.9183
+siltuximab 0.8699
+pembrolizumab 0.8646
+ravulizumab 0.8596
+eculizumab 0.8588
+rituximab 0.8585
+sirukumab 0.8486
+etesevimab 0.8431
+vedolizumab 0.8411
+sarilumab 0.8409
+
+n95
+ffp 0.844
+ffp1 0.8423
+p2 0.835
+ffp2 0.8349
+kn95 0.826
+ffp2-3 0.8244
+ffp3 0.8079
+fpp2 0.7807
+n-95 0.7767
+ffr 0.773
+
+opaganib
+Word not in corpus!
+propaganda 0.7286
+opaca 0.6913
+.jpg 0.6733
+copa 0.6728
+⚠️ 0.6643
+copago 0.6639
+?‎ 0.6608
+opaco 0.6574
+#gobiernodelbulo 0.6554
+propagando 0.6553
+
+remdesivir
+remdesevir 0.8997
+veklury 0.7677
+veklury® 0.7516
+antiviral 0.72
+acalabrutinib 0.7145
+oseltamivir 0.7143
+baricitinib 0.6989
+darunavir 0.6949
+tofacitinib 0.693
+fármaco 0.6855
+
+sars-cov-2
+sars-cov-2″ 0.961
+sars-cov-21 0.959
+sars-cov- 0.9198
+sras-cov-2 0.9087
+sar-cov-2 0.8804
+sars-cov-19 0.8717
+sarscov-2 0.8656
+sars- 0.8438
+sars-2 0.8339
+cov-2 0.8313
+
+umifenovir
+Word not in corpus!
+tenofovir 0.8024
+darunavir 0.785
+oseltamivir 0.7773
+avifavir 0.7575
+adenovirus 0.7559
+rovira 0.7473
+monovalente 0.7472
+ribavirina 0.7434
+sintético 0.7419
+remdesevir 0.7416
+
+wuhan
+china 0.8358
+hubei 0.808
+beijing 0.7048
+chinas 0.7028
+chinos 0.6938
+ciudad 0.6713
+pekín 0.6501
+shanghái 0.6497
+huanan 0.6438
+chino 0.6409
