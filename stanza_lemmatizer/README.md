@@ -1,4 +1,4 @@
-## Stanza lemmatizer with MedLexSp lexicon of medical terms
+## Stanza lemmatizer with MedLexSp forms and lemmas of medical terms
 
 The lemmatizer model is an updated version of the Ancora default model for Spanish with medical lemmas and forms from the MedLexSp lexicon (new 104 551 forms).
 
