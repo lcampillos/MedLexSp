@@ -1,4 +1,4 @@
-## Lemmatizer with MedLexSp forms and lemmas for Spacy
+## Spacy lemmatizer with MedLexSp forms and lemmas of medical terms
 
 This file includes 106 396 new variant forms of medical lemmas, to be used for lemmatization in Spacy.
 
