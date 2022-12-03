@@ -63,7 +63,7 @@ If you use this resource, please cite as follows:
   @article{campillos2022,   
   title       = {MedLexSp – A Medical Lexicon for Spanish Medical Natural Language Processing},  
   author       = {Campillos-Llanos, Leonardo},   
-  journal = {(Under review)},
+  journal = {Journal of Biomedical Semantics},
   note = {\url{https://doi.org/10.20350/digitalCSIC/14656}},
   year      = {2022}
   }
